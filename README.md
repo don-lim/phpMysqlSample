@@ -1,4 +1,4 @@
-# phpmysqlsample
+# php mysql sample
 This is what I used to use to read or write to a MySQL server with PHP around 2016.
 I'm sure there are better ways to do it. But, this worked great especially with many different types of foreign languages.
 
