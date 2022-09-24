@@ -1,4 +1,4 @@
-# php mysql sample
+# PHP MySQL examples for using non-Western characters
 This is what I used to use to read or write to a MySQL server with PHP around 2016.
 There are other ways to do it. But, this worked greatly especially with many different foreign languages.
 
